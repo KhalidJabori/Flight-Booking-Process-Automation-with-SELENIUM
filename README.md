@@ -1,7 +1,5 @@
-# Flight-Booking-Process-Automation-with-SELENIUM
---------------------------------------------------
+# Flight-Booking-Process-Automation-with-SELENIUM //Projet : Automatisation du Processus de Réservation de Vols avec Selenium
 
-Projet : Automatisation du Processus de Réservation de Vols avec Selenium
 Ce projet vise à automatiser entièrement la recherche et la réservation de billets d'avion sur des plateformes en ligne (comme Expedia, Kayak, ou les sites des compagnies aériennes) en utilisant Selenium pour simuler les interactions d'un utilisateur réel. L'objectif est de réduire le temps passé à comparer manuellement les vols, tout en garantissant la récupération des meilleures offres (prix, escales, horaires) selon des critères personnalisables (dates, budget, préférences de classe).
 
 Fonctionnalités Clés :
@@ -26,8 +24,11 @@ Fonctionnalités Clés :
 - Paiement simulé (si autorisé par le site).
 
 Avantages :
+
 ✅ Gain de temps : Comparaison de centaines de vols en quelques minutes.
+
 ✅ Flexibilité : Adaptable à plusieurs sites (grâce à la modularité du code).
+
 ✅ Alertes personnalisées : Notification lorsque les prix baissent.
 
 Technologies Utilisées :
